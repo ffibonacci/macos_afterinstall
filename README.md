@@ -87,6 +87,7 @@ heroku update
 [Idea Intellij](https://www.jetbrains.com/idea/download/#section=mac)</br>
 [PyCharm](https://www.jetbrains.com/pycharm/download/#section=mac)</br>
 [Tor Browser](https://www.torproject.org)</br>
+[VS Codium](https://vscodium.com)
 
 ## Firewall
 ### Free, open source
