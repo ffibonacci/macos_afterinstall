@@ -59,7 +59,19 @@ Install:
 brew cask install visual-studio-code
 ```
 ## Python
-Install pyenv:
+***Install virtualenv:***
+```
+pip3 install virtualenv
+echo "alias venv=virtualenv -p python3" >> ~/.zshrc
+```
+Example of creating virtualenv folder and activating virtual env:
+```
+venv ~/virtualenv
+source ~/virtualenv/bin/activate
+deactivate
+```
+or<br />
+***Install pyenv:***
 ```
 brew install pyenv
 echo 'eval "$(pyenv init -)"' >> ~/.zshrc
